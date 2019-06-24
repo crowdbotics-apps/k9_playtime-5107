@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT k9_playtime_5107.wsgi:application
